@@ -1,13 +1,16 @@
-# Silakka54 (Vial) Layout
+# My Silakka54 Layout (Vial)
 
 ## Overview
 
-In short, my layout is focused on ergonomics and Vim. Personally, typing on end with this layout allows programming to finally flow smoothly.
+My layout's focused on ergonomics and Vim. Personally,
+it allows me to type for many hours comfortably.
+Despite the layout being created with Vim and C in mind,
+it's not overly specific to C. Also, if you're a Vim-head
+as well, you'll be able to appreciate the intentional key
+placement.
 
-This layout was created with Vim and C in mind, though it's not overly specific to C.
-If you're a Vim user as well, you'll be able to understand that the key-placement was intentional.
-
-If you decide to use the layout, enjoy.
+If you decide to use the layout, enjoy, and a star would
+be appreciated.
 
 ## Layers 0-2
 
